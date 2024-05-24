@@ -1,4 +1,8 @@
+
+
+
 ## Hi there 👋
+<img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/code.gif" alt="CODE" width="1000" height="400"/>
 
 # Hello, I'm Hajar EL IDRISSI 👋
 <img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/hilo.webp" alt="Header Image" width="100"/>
