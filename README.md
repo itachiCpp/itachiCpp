@@ -8,7 +8,7 @@
 <img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/hilo.webp" alt="Header Image" width="100"/>
 
 
-## About Me
+## 📝About Me
 - **AI and Data Ninja**
 - **Machine Learning Maverick**
 - **Energy Engineering Enthusiast**
