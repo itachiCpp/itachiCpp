@@ -2,8 +2,9 @@
 
 
 # Hello, I'm Hajar EL IDRISSI 👋
-
-<img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/code.gif" alt="CODE" width="1000" height="400"/>
+<div style="background-color: #f7f9fc; padding: 20px; border-radius: 10px;">
+ <img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/code.gif" alt="CODE" width="1000" height="400"/>
+</div>
 
 ---
 
