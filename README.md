@@ -22,6 +22,11 @@
 - **Databases:** MySQL, MongoDB, SQLite
 - **Tools & Platforms:** Git
 
+  ## 🎨 Fun Facts
+- 🎮 I play games in my free time (PRO NOOB) 
+- 🌱 I'm currently learning advanced NLP techniques and DNN
+- 💬 Ask me about data science, AI and Anime 
+
 ## 📈 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=itachiCpp&show_icons=true&theme=radical)
 
