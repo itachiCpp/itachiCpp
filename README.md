@@ -30,6 +30,10 @@
 ## 📈 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=itachiCpp&show_icons=true&theme=radical)
 
+Thanks for visiting my profile! Let's build something amazing together.
+**Vista La Hasta**
+
+
 
 
       
