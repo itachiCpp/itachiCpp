@@ -50,10 +50,10 @@ Tools & Platforms:
 ---
 
 ## 🎨 Fun Facts
-- 🎮 I play games in my free time (PRO NOOB) 
+- 🎮 I play games in my free time 
 - 🌱 Currently learning advanced NLP techniques and DNN
 - 💬 Ask me about data science, AI, and anime
-- 💪 Growing my moosclis 
+- 💪 Hitting the gym 
 
 ---
 
