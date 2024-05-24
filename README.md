@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # Hello, I'm Hajar EL IDRISSI 👋
-
+![Header Image](https://github.com/itachiCpp/itachiCpp/raw/main/images/hilo.webp)
 
 
 ## About Me
