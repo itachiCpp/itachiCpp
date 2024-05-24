@@ -1,43 +1,87 @@
 
 
 
-## Hi there 👋
+# Hello, I'm Hajar EL IDRISSI 👋
+
 <img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/code.gif" alt="CODE" width="1000" height="400"/>
 
-# Hello, I'm Hajar EL IDRISSI 👋
+---
+
 <img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/hilo.webp" alt="Header Image" width="100"/>
 
+## 📝 About Me
+**AI and Data Ninja** | **Machine Learning Maverick** | **Energy Engineering Enthusiast**
 
-## 📝About Me
-- **AI and Data Ninja**
-- **Machine Learning Maverick**
-- **Energy Engineering Enthusiast**
-- **Passionate about turning data into actionable insights and building intelligent systems**
+I'm passionate about turning data into actionable insights and building intelligent systems.
+
+---
 
 ## 🛠️ Skills & Technologies
-- **Languages:** Python, R, C++, MATLAB, JAVA, SQL
-- **Frameworks & Libraries:**
-  - **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-Learn, Keras, OpenCV, NLTK
-  - **Data Science & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- **Databases:** MySQL, MongoDB, SQLite
-- **Tools & Platforms:** Git
+```yaml
+Languages:
+  - Python
+  - R
+  - C++
+  - MATLAB
+  - Java
+  - SQL
+Frameworks & Libraries:
+  Machine Learning & AI:
+    - TensorFlow
+    - PyTorch
+    - Scikit-Learn
+    - Keras
+    - OpenCV
+    - NLTK
+  Data Science & Visualization:
+    - Pandas
+    - NumPy
+    - Matplotlib
+    - Seaborn
+    - Plotly
+Databases:
+  - MySQL
+  - MongoDB
+  - SQLite
+Tools & Platforms:
+  - Git
+```
+
+---
 
 ## 🎨 Fun Facts
 - 🎮 I play games in my free time (PRO NOOB) 
-- 🌱 I'm currently learning advanced NLP techniques and DNN
-- 💬 Ask me about data science, AI and Anime
-- 💪 Growing my mooosclis
+- 🌱 Currently learning advanced NLP techniques and DNN
+- 💬 Ask me about data science, AI, and anime
+- 💪 Growing my moosclis 
+
+---
 
 ## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=itachiCpp&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itachiCpp&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itachiCpp&show_icons=true&theme=radical" alt="Hajar's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itachiCpp&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+
+---
 
 ## 💭 Favorite Quote
-> "The only way to do great work is to love what you do."  
-> — Steve Jobs
+<div align="center">
+  <blockquote>
+    "The only way to do great work is to love what you do."
+    <br>
+    <cite>— Steve Jobs</cite>
+  </blockquote>
+  <img src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" width="50" />
+</div>
 
-Thanks for visiting my profile! Let's build something amazing together.
-**Vista La Hasta**
+---
+
+<div align="center">
+  <strong>Thanks for visiting my profile! Let's build something amazing together.</strong>
+  <br>
+  <em>Hasta La Vista</em>
+</div>
 
 
 
