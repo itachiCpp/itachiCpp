@@ -11,7 +11,7 @@
 <img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/hilo.webp" alt="Header Image" width="100"/>
 
 ## 📝 About Me
-**AI and Data Ninja** | **Machine Learning Maverick** | **Energy Engineering Enthusiast**
+**AI and Data** | **Machine Learning** | **Energy Engineering** 
 
 I'm passionate about turning data into actionable insights and building intelligent systems.
 
