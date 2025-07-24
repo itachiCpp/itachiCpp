@@ -59,10 +59,7 @@ Tools & Platforms:
 ---
 
 ## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itachiCpp&show_icons=true&theme=radical" alt="Hajar's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itachiCpp&layout=compact&theme=radical" alt="Top Langs" />
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itachiCpp&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itachiCpp&layout=compact&theme=radical" width="48%" /> </div>
 
 ---
 
