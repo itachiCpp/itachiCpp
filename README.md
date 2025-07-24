@@ -58,7 +58,7 @@
 <h2 align="center">⚙️ What I'm Up To</h2>
 
 - 🌱 Diving into **Advanced NLP** and **DNN architectures**  
-- 📊 Automating **engineering workflows**  
+- 📊 Automating **Engineering Workflows**  
 - 🔎 Making AI decisions understandable — not just accurate
 
 ---
