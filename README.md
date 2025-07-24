@@ -1,87 +1,91 @@
+<h1 align="center">Hi, I'm Hajar EL IDRISSI 👋</h1>
 
+<p align="center">
+  <img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/code.gif" alt="Coding" width="1000" />
+</p>
 
-
-# Hello, I'm Hajar EL IDRISSI 👋
-<div style="background-color: #f7f9fc; padding: 20px; border-radius: 10px;">
- <img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/code.gif" alt="CODE" width="1000" height="400"/>
-</div>
-
----
-
-<img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/hilo.webp" alt="Header Image" width="100"/>
-
-## 📝 About Me
-**AI and Data** | **Energy Engineering** | **Subsea Engineering** 
-
-I'm passionate about turning data into actionable insights and building intelligent systems.
-
----
-
-## 🛠️ Skills & Technologies
-```yaml
-Languages:
-  - Python
-  - R
-  - C++
-  - MATLAB
-  - Java
-  - SQL
-Frameworks & Libraries:
-  Machine Learning & AI:
-    - TensorFlow
-    - PyTorch
-    - Scikit-Learn
-    - Keras
-    - OpenCV
-    - NLTK
-  Data Science & Visualization:
-    - Pandas
-    - NumPy
-    - Matplotlib
-    - Seaborn
-    - Plotly
-Databases:
-  - MySQL
-  - MongoDB
-  - SQLite
-Tools & Platforms:
-  - Git
-```
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://hajarelidrissi.me" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🎨 Fun Facts
-- 🎮 I play games in my free time 
-- 🌱 Currently learning advanced NLP techniques and DNN
-- 💬 Ask me about data science, AI, and anime
-- 💪 Hitting the gym 
+## 👩‍💻 About Me
+
+🌍 Moroccan 🇲🇦 | 📍 Based in Europe  
+🔌 Energy Engineer turned **AI Explorer**  
+🌊 Working in Subsea Engineering + building smart tools for automation  
+💡 Passionate about using **AI to solve real-world energy challenges**
 
 ---
 
-## 📈 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itachiCpp&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itachiCpp&layout=compact&theme=radical" width="48%" /> </div>
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,matlab,sql,mongodb,git,github,vscode,figma&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,opencv,sklearn,numpy,pandas,matplotlib,seaborn,plotly&theme=dark" />
+</p>
 
 ---
 
-## 💭 Favorite Quote
-<div align="center">
-  <blockquote>
-    "The only way to do great work is to love what you do."
-    <br>
-    <cite>— Steve Jobs</cite>
-  </blockquote>
-  <img src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" width="50" />
-</div>
+## 🚀 Projects & Interests
+
+- 🧠 **Smart Microgrids** – Reinforcement Learning for green energy  
+- 🤖 **AI Chatbots** – NLP with RASA for real-world automation  
+- 🔍 **Anomaly Detection** – Building interpretable AI tools  
+- 📈 **Weight Prediction Models** – Using XGBoost & Power BI in industry  
+- 🚘 **Computer Vision Systems** – Real-time detection & path planning
 
 ---
 
-<div align="center">
-  <strong>Thanks for visiting my profile! Let's build something amazing together.</strong>
-  <br>
-  <em>Hasta La Vista</em>
-</div>
+## ⚡ What I'm Up To Now
 
+- 🌱 Mastering **Advanced NLP** and **DNN architectures**
+- 📊 Developing smart reporting tools using **VBA + Python**
+- 🧪 Experimenting with **Explainable AI** for reliability
 
+---
 
+## 💻 GitHub Stats
 
-      
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itachiCpp&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itachiCpp&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🎨 Vibes
+
+- 🎧 Coding with lo-fi + anime OST
+- 💪 Gym & mental clarity
+- 🕹️ Gamer at heart (strategic playstyle)
+- 🐱 Cat enthusiast & Studio Ghibli lover
+
+---
+
+## 🗯️ Quote I Live By
+
+<p align="center">
+  <em>"The only way to do great work is to love what you do."</em>  
+  <br/>— Steve Jobs
+  <br/>
+  <img src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" width="60" />
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting!</b> ✨ Let’s connect and create impactful things.  
+  <br/>
+  <em>Hasta La Vista 👋</em>
+</p>
