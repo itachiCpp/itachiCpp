@@ -21,8 +21,11 @@
 ## 👩‍💻 About Me
 
 🌍 Moroccan 🇲🇦 | 📍 Based in Paris
+
 🔌 Energy Engineer turned **AI Explorer**  
+
 🌊 Working in Subsea Engineering + building smart tools for automation  
+
 💡 Passionate about using **AI to solve real-world energy challenges**
 
 ---
