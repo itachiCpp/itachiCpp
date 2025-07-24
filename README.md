@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hajar EL IDRISSI 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/code.gif" alt="Coding" width="1000" />
+  <img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/code1.gif" alt="Coding" width="1000" />
 </p>
 
 <p align="center">
