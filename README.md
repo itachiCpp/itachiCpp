@@ -59,7 +59,7 @@
 
 - 🌱 Diving into **Advanced NLP** and **DNN architectures**  
 - 📊 Automating **Engineering Workflows**  
-- 🔎 Making AI decisions understandable — not just accurate
+- 🔎 Making AI decisions understandable
 
 ---
 
