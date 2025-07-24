@@ -39,11 +39,11 @@
 
 ## 🚀 Projects & Interests
 
-- 🧠 **Smart Microgrids** – Reinforcement Learning for green energy  
-- 🤖 **AI Chatbots** – NLP with RASA for real-world automation  
-- 🔍 **Anomaly Detection** – Building interpretable AI tools  
-- 📈 **Weight Prediction Models** – Using XGBoost & Power BI in industry  
-- 🚘 **Computer Vision Systems** – Real-time detection & path planning
+- 🧠 **Smart Microgrids**  
+- 🤖 **AI Chatbots** 
+- 🔍 **Anomaly Detection**  
+- 📈 **Prediction Models** 
+- 🚘 **Computer Vision Systems** 
 
 ---
 
@@ -67,8 +67,7 @@
 ## 🎨 Vibes
 
 - 🎧 Coding with lo-fi + anime OST
-- 💪 Gym & mental clarity
-- 🕹️ Gamer at heart (strategic playstyle)
+- 🕹️ Indie games
 - 🐱 Cat enthusiast & Studio Ghibli lover
 
 ---
