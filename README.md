@@ -50,7 +50,7 @@
 ## ⚡ What I'm Up To Now
 
 - 🌱 Mastering **Advanced NLP** and **DNN architectures**
-- 📊 Developing smart reporting tools using **VBA + Python**
+- 📊 Automating engineering workflows
 - 🧪 Experimenting with **Explainable AI** for reliability
 
 ---
