@@ -49,6 +49,7 @@
   <li>🔍 <b>Anomaly Detection</b></li>
   <li>📈 <b>Prediction Models</b></li>
   <li>🧠 <b>Computer Vision Systems</b></li>
+  <li>🛢️ <b>Petroleum Engineering</b><li>
 </ul>
 
 ---
