@@ -87,7 +87,7 @@
 ---
 
 <p align="center">
-  <b>Thanks for visiting!</b> ✨ Let’s connect and create impactful things.  
+  <b>Thanks for visiting!</b> Let’s connect and create impactful things.  
   <br/>
   <em>Hasta La Vista 👋</em>
 </p>
