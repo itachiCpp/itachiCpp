@@ -57,7 +57,7 @@
 
 - 🌱 Diving into **Advanced NLP** and **DNN architectures**  
 - 📊 Automating **engineering workflows**  
-- 🔎 Exploring **Explainable AI** to ensure trust in ML systems
+- 🔎 Making AI decisions understandable — not just accurate
 
 ---
 
