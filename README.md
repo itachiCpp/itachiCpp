@@ -83,8 +83,8 @@
 <h2 align="center">🗯️ Quote I Live By</h2>
 
 <p align="center">
-  <em>"The only way to do great work is to love what you do."</em><br/>
-  — Steve Jobs  
+  <em>"Those who cannot acknowledge themselves, will eventually fail."</em><br/>
+  — Itachi Uchiha 
   <br/>
   <img src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" width="60" />
 </p>
