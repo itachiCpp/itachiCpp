@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link/" target="_blank">
+  <a href="[https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/hajar-el-idrissi-/)" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://hajarelidrissi.me" target="_blank">
