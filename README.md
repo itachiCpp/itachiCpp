@@ -21,7 +21,7 @@
 <h2 align="center">👩‍💻 About Me</h2>
 
 <p align="center">
-  🌍 Moroccan 🇲🇦 &nbsp; | &nbsp; 📍 Based in Paris  
+  🌍 Moroccan  &nbsp; | &nbsp; 📍 Based in Paris  
   <br/>
   🔌 Energy & Subsea Engineer exploring the depths of AI</b>  
   <br/>
