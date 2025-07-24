@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/hajar-el-idrissi-/)" target="_blank">
+  <a href="https://www.linkedin.com/in/hajar-el-idrissi-/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://hajarelidrissi.me" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:elidrissihajar21@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,matlab,sql,mongodb,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,matlab,sql,mongodb,git,github,vscode&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,opencv,sklearn,numpy,pandas,matplotlib,seaborn,plotly&theme=dark" />
 </p>
@@ -55,7 +55,7 @@
 
 ---
 
-## 💻 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itachiCpp&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
