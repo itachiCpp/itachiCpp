@@ -43,13 +43,14 @@
 
 <p align="center"><b>Data Analysis & Visualization</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,plotly&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,plotly&theme=dark" />
 </p>
 
 <p align="center"><b>Tools & Environment</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
+
 
 
 ---
