@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi%20👋,%20I'm%20Hajar%20El%20Idrissi&fontSize=42&fontColor=06b6d4" />
 </p>
 
-<h3 align="center">EPC project execution & subsea systems Engineer | AI & Data Science Enthusiast</h3>
+<h3 align="center">EPC project execution & Subsea systems Engineer | AI & Data Science Enthusiast</h3>
 
 <p align="center">
   <img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/codemeh.gif" alt="Coding" width="500" />
