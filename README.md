@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi%20👋,%20I'm%20Hajar%20El%20Idrissi&fontSize=42&color=0:0ea5e9,100:06b6d4" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi%20👋,%20I'm%20Hajar%20El%20Idrissi&fontSize=42&fontColor=06b6d4" />
 </p>
-
 
 <h3 align="center">EPC project execution & subsea systems Engineer | AI & Data Science Enthusiast</h3>
 
