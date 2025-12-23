@@ -10,6 +10,10 @@
   <img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/codemeh.gif" alt="Coding" width="500" />
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hajarelidrissi.visitor-badge" alt="Visitor Badge" />
+</p>
+
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/hajar-el-idrissi-/" target="_blank">
