@@ -1,7 +1,7 @@
 <!-- Greeting Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi%20👋,%20I'm%20Hajar%20El%20Idrissi&fontSize=42&fontColor=06b6d4" />
-</p>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#06b6d4">Hajar El Idrissi</span>
+</h1>
 
 <h3 align="center">EPC Project Execution & Subsea Systems Engineer | AI & Data Science Enthusiast</h3>
 
@@ -10,8 +10,9 @@
   <img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/codemeh.gif" alt="Coding" width="500" />
 </p>
 
+<!-- Visitor Counter -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hajarelidrissi.visitor-badge" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hajarelidrissi.hajarelidrissi" alt="Visitor Badge" />
 </p>
 
 <!-- Social Links -->
@@ -26,6 +27,7 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 <hr/>
 
