@@ -31,11 +31,26 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
+<p align="center"><b>Languages & Data</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,matlab,sql,mongodb,git,github,vscode&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,opencv,sklearn,numpy,pandas,matplotlib,seaborn,plotly&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,matlab,sql,mongodb&theme=dark" />
 </p>
+
+<p align="center"><b>AI / Machine Learning</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn,opencv&theme=dark" />
+</p>
+
+<p align="center"><b>Data Analysis & Visualization</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,plotly&theme=dark" />
+</p>
+
+<p align="center"><b>Tools & Environment</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+
 
 ---
 
