@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hajar El Idrissi</h1>
-<h3 align="center">EPC project execution, subsea systems, and energy engineering | AI & Data Science Enthusiast</h3>
+<h3 align="center">EPC project execution & subsea systems Engineer | AI & Data Science Enthusiast</h3>
 
 <p align="center">
   <img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/code1.gif" alt="Coding" width="900" />
@@ -45,7 +45,7 @@
   <li>🤖 <b>Autonomous & Semi-Autonomous ROV Navigation</b></li>
   <li>🔍 <b>Anomaly Detection in Subsea Assets</b></li>
   <li>📈 <b>Predictive Analytics for Offshore Operations & Planning</b></li>
-  <li>📊 <b>Digitalization of Engineering, Procurement & Construction Data</b></li>
+  <li>📊 <b>Digitalization of Engineering, Procurement & Construction Processes</b></li>
   <li>🧭 <b>ROV Path Optimization under Offshore Constraints</b></li>
   <li>🌊 <b>Digital Twins for Offshore & Subsea Assets</b></li>
 </ul>
