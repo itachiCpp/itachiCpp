@@ -2,7 +2,7 @@
 <h3 align="center">EPC project execution & subsea systems Engineer | AI & Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/codemeh" alt="Coding" width="100" />
+  <img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/codemeh.gif" alt="Coding" width="200" />
 </p>
 
 <p align="center">
