@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hajar El Idrissi</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#38bdf8;">Hajar El Idrissi</span></h1>
 <h3 align="center">EPC project execution & subsea systems Engineer | AI & Data Science Enthusiast</h3>
 
 <p align="center">
