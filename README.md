@@ -10,7 +10,7 @@
   <img src="https://github.com/itachiCpp/itachiCpp/raw/main/images/codemeh.gif" alt="Coding" width="500" />
 </p>
 
-<!-- Visitor Counter -->
+<!-- Visitor Counter hehe -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hajarelidrissi.hajarelidrissi" alt="Visitor Badge" />
 </p>
@@ -62,7 +62,7 @@
 <p align="center">
   🎾 Tennis &nbsp;|&nbsp; ⚽ Futsal <br/>
   🕹️ Indie Games Explorer & Tech Curiosity Enthusiast <br/>
-  🐱 Proud Cat Person <br/>
+  🐱 Cat Person <br/>
 </p>
 
 <hr/>
