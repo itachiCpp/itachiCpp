@@ -45,7 +45,7 @@
   <li>🤖 <b>Autonomous & Semi-Autonomous ROV Navigation</b></li>
   <li>🔍 <b>Anomaly Detection in Subsea Assets</b></li>
   <li>📈 <b>Predictive Analytics for Offshore Operations & Planning</b></li>
-  <li>📊 <b>Digitalization of Engineering & Construction Data</b></li>
+  <li>📊 <b>Digitalization of Engineering, Procurement & Construction Data</b></li>
   <li>🧭 <b>ROV Path Optimization under Offshore Constraints</b></li>
   <li>🌊 <b>Digital Twins for Offshore & Subsea Assets</b></li>
 </ul>
