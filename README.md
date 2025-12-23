@@ -27,31 +27,6 @@
   🤖 Building intelligent tools to automate, predict & explain <br/>
 </p>
 
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center"><b>Languages & Data</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,matlab,sql,mongodb&theme=dark" />
-</p>
-
-<p align="center"><b>AI / Machine Learning</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn,opencv&theme=dark" />
-</p>
-
-<p align="center"><b>Data Analysis & Visualization</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,plotly&theme=dark" />
-</p>
-
-<p align="center"><b>Tools & Environment</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
-
-
 
 ---
 
@@ -69,15 +44,6 @@
 
 ---
 
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itachiCpp&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itachiCpp&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
 
 <h2 align="center">🎨 Beyond Code</h2>
 
